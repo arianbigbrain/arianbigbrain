@@ -1,6 +1,9 @@
 ## Hi there 👋
+
 I'm currently learning Cybersecurity and Coding as my hobbies and would love to presume it as my work
+
 I'm also design and have a big interest in anime GFX
+
 Currently learning Python, CSS, JAVA, Javascript and HTML
 <!--
 **arianbigbrain/arianbigbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
