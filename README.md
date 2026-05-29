@@ -4,7 +4,21 @@ I'm currently learning Cybersecurity and Coding as my hobbies and would love to 
 
 I'm also design and have a big interest in anime GFX and anime AMV
 
-Currently learning Python, CSS, JAVA, Javascript and HTML
+Currently learning 
+- Python
+- CSS
+- JAVA
+- Javascript
+- HTML
+
+  Software
+- Blender
+- After Effect
+- Photoshop
+- Illustrator
+
+  Linux
+  -arch linux hyprland
 <!--
 **arianbigbrain/arianbigbrain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
