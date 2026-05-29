@@ -91,5 +91,5 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C792EA&center=true&vCenter=true&width=435&lines=Arch+Linux+Enjoyer;Cybersecurity+Student;Anime+GFX+Editor;Future+Developer">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=0097F7&width=435&lines=Let's+All+Love+Lain" alt="Typing SVG" /></a>
 </p>
