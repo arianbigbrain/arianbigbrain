@@ -1,4 +1,4 @@
-![Preview](C:\Users\Naira\Downloads\download.gif)
+![Demo](demo.gif)
 
 ## Hi there 👋
 
