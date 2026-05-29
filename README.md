@@ -1,3 +1,5 @@
+![Preview](C:\Users\Naira\Downloads\download.gif)
+
 ## Hi there 👋
 
 I'm currently learning Cybersecurity and Coding as my hobbies and would love to presume it as my work
