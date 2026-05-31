@@ -61,14 +61,7 @@
 
 ## Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=arianbigbrain&show_icons=true&theme=tokyonight&hide_border=true">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arianbigbrain&layout=compact&theme=tokyonight&hide_border=true">
-</p>
-
+![GitHub Streak](https://streak-stats.demolab.com?user=arianbigbrain&theme=tokyonight)
 ---
 
 ## Tech Stack
